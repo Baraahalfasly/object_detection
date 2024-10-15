@@ -11,4 +11,3 @@ The resulting video, displaying the object names and distances, is saved in the 
 
 ![meeting image output](output_image.png)
 
-These pictures are after modification.
