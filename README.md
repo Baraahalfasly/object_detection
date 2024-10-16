@@ -9,5 +9,5 @@ The resulting video, displaying the object names and distances, is saved in the 
 
 ![meeting image output](output_image4.png)
 
-![meeting image output](output_image.png)
+![ image output](output_image.png)
 
